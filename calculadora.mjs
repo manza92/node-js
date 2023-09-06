@@ -1,4 +1,4 @@
-const {suma, rest, mult, div } = require("./operaciones")
+import { suma, rest, mult, div } from "./operaciones.mjs";
 
 
 console.log(suma(12,64));
